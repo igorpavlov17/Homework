@@ -70,8 +70,8 @@ public class Deck{
         else System.out.println("Карта " + rank + " of " + suit + " в колоде уже есть!");
     }
 
-    public static boolean checkEmpty(){ // проверить на пустоту
-        return cards.isEmpty();
+    public static void checkEmpty(){ // проверить на пустоту
+        if (cards.isEmpty()) System.out.println("Колода пуста!");
     }
 
     @Override
