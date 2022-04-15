@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94418630-09dd-4e50-8765-b9f30ee8cf58" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/Homework1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/Homework1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/Task1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task2/CardA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task2/CardB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task2/CardC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task2/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task3/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task3/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task4/Deck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task4/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task5/AbstractFileSystemNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task5/File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task5/FileSystemNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task5/Folder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/out/production/Homework1/task5/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task2/CardA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task2/CardB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task2/CardC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task2/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task3/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task3/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task4/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task4/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task5/AbstractFileSystemNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task5/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task5/FileSystemNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task5/Folder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/src/task5/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/Homework2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/Task1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/META-INF/Homework2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task2/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task2/CardKotlin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task2/Rank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task2/Suit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task2/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task3/AbstractFileSystemNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task3/File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task3/FileSystemNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task3/Folder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/task3/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task2/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task2/CardKotlin.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task2/Rank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task2/Suit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task2/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task3/AbstractFileSystemNode.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task3/File.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task3/FileSystemNode.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task3/Folder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/task3/Task3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/androidTest/java/com/example/homework3_1/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/java/com/example/homework3_1/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/java/com/example/homework3_1/ReceiverFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/java/com/example/homework3_1/SenderFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/java/com/example/homework3_1/ViewModelData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/layout/fragment_receiver.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/layout/fragment_sender.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/app/src/test/java/com/example/homework3_1/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/androidTest/java/com/example/homework3_2/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/java/com/example/homework3_2/FragmentA.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/java/com/example/homework3_2/FragmentB.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/java/com/example/homework3_2/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/layout/fragment_a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/layout/fragment_b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/app/src/test/java/com/example/homework3_2/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework3/Homework3_2/Логи и ответы.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26nKl3uhRDLTVHQaPTGBEmZKmzO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.Task4" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task5.Task5" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Homework" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94418630-09dd-4e50-8765-b9f30ee8cf58" name="Changes" comment="" />
+      <created>1648054057497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648054057497</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fixed">
+      <created>1648065349794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648065349794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework2">
+      <created>1648490147255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648490147255</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework2">
+      <created>1649268989373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649268989373</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework 3 - task 2">
+      <created>1649440016894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649440016894</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="fixed" />
+    <MESSAGE value="Homework2" />
+    <MESSAGE value="Homework 3 - task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 - task 2" />
+  </component>
+</project>
