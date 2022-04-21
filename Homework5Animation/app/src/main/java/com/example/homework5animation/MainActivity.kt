@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         findViewById<Button>(R.id.homework).setOnClickListener {
-            supportFragmentManager.beginTransaction().addToBackStack(null).replace(R.id.fl, AnimationFragment()).commit()
+            supportFragmentManager.beginTransaction().setCustomAnimations(R.animator.to_left_in, R.animator.to_left_out, R.animator.to_right_in, R.animator.to_right_out).addToBackStack(null).replace(R.id.fl, AnimationFragment()).commit()
         }
     }
 }

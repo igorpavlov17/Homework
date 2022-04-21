@@ -16,15 +16,12 @@ class AnimationFragment : Fragment() {
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.scene_1, container, false).also {
             it.findViewById<Button>(R.id.button).setOnClickListener {
-                expand()
+                val scene = Scene.getSceneForLayout(requireView() as ViewGroup, R.layout.scene_2, requireContext())
+                TransitionManager.go(scene, TransitionSet().apply {
+                    addTransition(ChangeBounds().setDuration(400L))
+                    //addTransition(Fade())
+                })
             }
         }
-    }
-
-    private fun expand(){
-        val scene = Scene.getSceneForLayout(requireView() as ViewGroup, R.layout.scene_2, requireContext())
-        TransitionManager.go(scene, TransitionSet().apply {
-            addTransition(ChangeBounds().setDuration(400L))
-        })
     }
 }
