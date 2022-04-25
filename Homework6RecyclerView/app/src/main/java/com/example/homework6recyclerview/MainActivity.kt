@@ -14,17 +14,17 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        employeesAdapter = EmployeesAdapter(viewModel::deleteEmployee)
+        employeesAdapter = EmployeesAdapter(viewModel::deleteEmployee, viewModel::like)
 
         val recyclerView = findViewById<RecyclerView>(R.id.recycler)
         recyclerView.layoutManager = GridLayoutManager(this, 2)
         recyclerView.adapter = employeesAdapter
 
-        viewModel.employees.observe(this){
+        viewModel.employees.observe(this) {
             employeesAdapter.reload(it)
         }
 
-        findViewById<FloatingActionButton>(R.id.add_button).setOnClickListener{
+        findViewById<FloatingActionButton>(R.id.add_button).setOnClickListener {
             viewModel.addRandomEmployee()
         }
     }
