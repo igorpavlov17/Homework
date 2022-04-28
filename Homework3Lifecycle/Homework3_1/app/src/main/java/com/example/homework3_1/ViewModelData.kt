@@ -6,7 +6,7 @@ import androidx.lifecycle.ViewModel
 class ViewModelData : ViewModel() {
     var textMutableLiveData = MutableLiveData<String>()
 
-    fun setText(s: String?){
+    fun setText(s: String?) {
         textMutableLiveData.value = s
     }
 }

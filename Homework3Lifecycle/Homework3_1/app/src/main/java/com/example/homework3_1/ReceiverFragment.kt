@@ -12,7 +12,6 @@ import androidx.lifecycle.ViewModelProvider
 
 class ReceiverFragment : Fragment() {
     private lateinit var viewModelData: ViewModelData
-    private lateinit var receivedMessage: TextView
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -24,14 +23,13 @@ class ReceiverFragment : Fragment() {
     @SuppressLint("SetTextI18n", "FragmentLiveDataObserve")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         viewModelData = ViewModelProvider(this).get(ViewModelData::class.java)
-        receivedMessage = requireActivity().findViewById(R.id.received_message)
         super.onViewCreated(view, savedInstanceState)
-        receivedMessage.text = arguments?.getString(message)
-        viewModelData.textMutableLiveData.observe(this){
-            receivedMessage.text = it
+        requireActivity().findViewById<TextView>(R.id.received_message).text = arguments?.getString(message)
+        viewModelData.textMutableLiveData.observe(this) {
+            requireActivity().findViewById<TextView>(R.id.received_message).text = it
         }
         view.findViewById<Button>(R.id.read_message).setOnClickListener {
-            receivedMessage.text = "All messages is read"
+            requireActivity().findViewById<TextView>(R.id.received_message).text = "All messages is read"
             viewModelData.setText("All messages is read")
         }
     }

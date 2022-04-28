@@ -18,8 +18,9 @@ class SenderFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        view.findViewById<Button>(R.id.send_message).setOnClickListener{
-            val message: String = requireActivity().findViewById<EditText>(R.id.messageToSend).text.toString()
+        view.findViewById<Button>(R.id.send_message).setOnClickListener {
+            val message: String =
+                requireActivity().findViewById<EditText>(R.id.messageToSend).text.toString()
             parentFragmentManager.beginTransaction().replace(R.id.fragment_container, ReceiverFragment.newInstance(message)).addToBackStack(null).commit()
         }
     }
