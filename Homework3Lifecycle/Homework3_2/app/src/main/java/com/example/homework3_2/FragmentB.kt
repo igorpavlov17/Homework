@@ -24,7 +24,7 @@ class FragmentB : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         Log.i("LifecycleCallbacks", "FragmentB: onCreateView")
-        return inflater.inflate(R.layout.fragment_a, container, false)
+        return inflater.inflate(R.layout.fragment_b, container, false)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
